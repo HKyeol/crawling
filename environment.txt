@@ -1,0 +1,4 @@
+driver_path=C:\a\chromedriver
+oracle_host=localhost:1521/xe
+oracle_id=scott
+oracle_pw=tiger
